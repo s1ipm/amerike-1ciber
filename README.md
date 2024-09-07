@@ -3,4 +3,6 @@
 - [Archivo de la práctica 1](practica-01.md) 
 
 # amerike-1ciber
-# amerike-1ciber
+
+- [Práctica-3](https://github.com/s1ipm/Practica3.git) 
+
