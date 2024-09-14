@@ -5,7 +5,7 @@
 
 **Fotografía:**
 
- ![Foto personal](foto%20personal.jpeg)
+ ![Fotopersonal](image.png)
 
 ---
 # Presentación.
