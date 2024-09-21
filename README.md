@@ -9,5 +9,8 @@
 
  - [Práctica-5](practica-05.md) 
 
-- [Práctica-6](https://github.com/s1ipm/practica-06.git)Creando la versión 1.0.0 de este repositorio.
+- [Práctica-6](https://github.com/s1ipm/practica-06.git)
+
+Creando la versión 1.0.0 de este repositorio.
 Creando la versión 1.1.0 de este repositorio.
+- [Práctica-7](https://github.com/s1ipm/amerike-1ciber/tree/main/practica-07)
