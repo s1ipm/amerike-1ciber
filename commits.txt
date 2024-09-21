@@ -1,0 +1,10 @@
+b94944b Subiendo commits.txt
+5555288 Merge branch 'html'
+6c33502 modificando read.me
+d9bed1a modificando index.html desde la rama html
+61441ac Agregando enlace y contenido de la Práctica 5
+c2cead6 Agregando enlace y contenido de la Práctica 5
+0fbaad0 Agregando enlace y contenido de la Práctica 3
+0e3e0da Creando archivo .gitignore
+74b62e2 first commit
+8c442c6 Primer cambio
